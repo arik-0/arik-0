@@ -1,2 +1,1 @@
-- name: git-profile-koi
-  uses: yalongwastaken/git-koi@v1.0.2
+<img src="koi/koi.gif" width="256" alt="My koi" />
